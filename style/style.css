@@ -2,3 +2,19 @@
   text-align: center;
   background-color: rgb(0, 255, 128);
 }
+.item_paragraph {
+  padding-top: 40px;
+  
+}
+
+.item_image {
+  width: 100em;
+}
+
+.item_param_one {
+  padding: 50px 100px 20px 100px;
+  width: 960px
+  height: 1431px
+  top: 140px
+  left: 240px
+}
